@@ -2,8 +2,8 @@
 Ejercicios de vision, siempre es mejor seguir un video 
 
 https://www.youtube.com/watch?v=L0LaEgTMCP4
-![https://www.youtube.com/watch?v=L0LaEgTMCP4](https://img.youtube.com/vi/L0LaEgTMCP4/sddefault.jpg "Ejercicios")
 
+Abre en nueva ventana
 [![Ejercicios](https://img.youtube.com/vi/L0LaEgTMCP4/sddefault.jpg)](https://www.youtube.com/watch?v=L0LaEgTMCP4)
 
 
