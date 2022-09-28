@@ -1,6 +1,10 @@
 # Wiki Publica
 Ejercicios de vision, siempre es mejor seguir un video 
 
+1
+![https://www.youtube.com/embed/L0LaEgTMCP4?t=40](https://img.youtube.com/vi/L0LaEgTMCP4/sddefault.jpg)
+
+
 2
 ![https://img.youtube.com/vi/L0LaEgTMCP4/sddefault.jpg](https://www.youtube.com/embed/L0LaEgTMCP4?t=40)
 
