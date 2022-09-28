@@ -2,7 +2,7 @@
 Ejercicios de vision, siempre es mejor seguir un video 
 
 1
-![https://www.youtube.com/embed/L0LaEgTMCP4](https://img.youtube.com/vi/L0LaEgTMCP4/sddefault.jpg)
+![https://www.youtube.com/watch?v=L0LaEgTMCP4](https://img.youtube.com/vi/L0LaEgTMCP4/sddefault.jpg "Ejercicios")
 
 
 2
